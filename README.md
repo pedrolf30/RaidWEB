@@ -30,3 +30,7 @@ git clone https://github.com/pedrolf30/RaidWEB.git
 ```
 Importar arquivo db.sql que está na pasta 'Banco de Dados' para o seu sistema de banco de dados MySQL.
 ```
+#### Acessar o localhost pelo browser
+```
+localhost:8080/
+```
