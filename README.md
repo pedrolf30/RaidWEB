@@ -1,5 +1,8 @@
-<img src="./assets/readme/logo.png" width="300" height="200">
+<img src="./assets/readme/logo.png" width="50" height="50">
 <img src="./assets/readme/login.png">
+<img src="./assets/readme/criarLogin.png">
+<img src="./assets/readme/tela.png">
+
 # RaidWEB - Dashboard
 Dashboard em PHP, desenvolvido como TCC no 3º ano do ensino médio técnico de informática no UNASP-HT, pelos alunos Pedro Lanatti e Samuel Cezar.
 
